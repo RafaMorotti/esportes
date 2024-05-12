@@ -1,0 +1,21 @@
+.menu-table {
+    border-collapse: collapse;
+    width: 300px; /* largura da tabela */
+}
+
+.menu-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+    background-color: #99a196;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.menu-button:hover {
+    background-color: #0056b3;
+}

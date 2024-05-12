@@ -1,0 +1,28 @@
+/* formatação pagina boston e guarani */
+
+h1
+    {
+        font-size: 34px;
+        font-weight: bold;
+        color:rgb(2, 63, 10); 
+    }
+
+body
+    {
+        font size: 18px;
+        color: black;
+    }
+ 
+h4
+    {
+        font-size: 22px;
+        font-style: italic;
+        color: forestgreen;
+    }
+
+h3
+    {
+        font-size: 26px;
+        font-style: italic;
+        color: forestgreen;
+    }
